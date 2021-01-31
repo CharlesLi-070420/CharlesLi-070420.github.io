@@ -1,10 +1,23 @@
-# amWiki轻文库
+# Wilhelm-L的个人Wiki
 
 <br>
 
-![欢迎使用amWiki！](amWiki/images/logo.png "欢迎使用amWiki！")  
+[](/assets/wiki-avatar.png "Wilhelm-L表示欢迎。")
 
-### 欢迎使用 amWiki 轻文库!
-—— **amWiki 致力于让大家可以更简单、更便捷的建设个人和团队文库！**  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-[ [amWiki 官网文档中心](https://amwiki.org/doc/) ]
+[写作帮助：amWiki 官网文档](https://amwiki.org/doc/) 
