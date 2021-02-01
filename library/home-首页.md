@@ -1,8 +1,8 @@
-# Wilhelm-L的个人Wiki
+# Wilhelm Constantin的个人Wiki
 
 <br>
 
-[](/assets/wiki-avatar.png "Wilhelm-L表示欢迎。")
+[](/assets/wiki-avatar.png "Wilhelm Constantin表示欢迎。")
 
 <br>
 <br>
